@@ -1,4 +1,4 @@
-# Mosai-Sys Skills
+# IOTA Skills by Mosai-Sys
 
 This repository stores Codex skills for Mosai-Sys workflows.
 
