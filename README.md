@@ -1,4 +1,4 @@
-# IOTA Skills by Mosai-Sys
+# Codex Skills - IOTA L1 (Move) - by Mosai-Sys
 
 This repository stores Codex skills for Mosai-Sys workflows.
 
