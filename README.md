@@ -106,14 +106,6 @@ Review the Move package in ./move/escrow for capability safety, shared object in
 
 Version 4 uses one focused `SKILL.md` plus task-specific reference files. This structure was selected over a minimal patch and over multiple separate skills because it gives Codex a short activation surface while preserving detailed safety guidance for the exact task being performed.
 
-Decision summary:
-
-| Option | Description | Score | Decision |
-|---|---|---:|---|
-| A | Minimal patch to the previous skill | 30/50 | Rejected |
-| B | One focused skill with task-specific references, scripts, and GitHub README | 45/50 | Selected |
-| C | Multiple separate IOTA skills | 36/50 | Deferred |
-
 See:
 
 ```text
